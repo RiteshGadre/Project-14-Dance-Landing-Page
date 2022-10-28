@@ -7,7 +7,7 @@
 ![](./Images/SS1.png)
 ![](./Images/SS2.png)
 
-[Click Here to Visit Site](https://ritesh-saas-landing-page.netlify.app/)
+[Click Here to Visit Site](https://ritesh-dance-landing-page.netlify.app/)
 
 # ![](https://img.shields.io/badge/-Technologies%20Used-blue)
 ```
