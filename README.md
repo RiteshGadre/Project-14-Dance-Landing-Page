@@ -19,6 +19,7 @@
 
 ```
 👉 How to structure the webpage
+👉 How to use different types of selectors
 👉 How to use images
 👉 How to use flex
 👉 How to use media queries
